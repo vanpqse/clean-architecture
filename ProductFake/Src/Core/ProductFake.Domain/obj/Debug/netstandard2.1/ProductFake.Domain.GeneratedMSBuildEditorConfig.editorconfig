@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ProductFake.Domain
+build_property.ProjectDir = F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

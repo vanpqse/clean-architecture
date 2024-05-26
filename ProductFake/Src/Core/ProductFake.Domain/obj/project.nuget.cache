@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bU+8eKjWqLnmOswPlezgRL3yHF0t5m08tvsSfVWKnnsgcNkTLiojARHLehJfxtxn35pOK/TYnbsjO3X50QnCfg==",
+  "success": true,
+  "projectFilePath": "F:\\.Net\\CleanArchitectureNet8\\ProductFake\\Src\\Core\\ProductFake.Domain\\ProductFake.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

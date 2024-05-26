@@ -1,0 +1,9 @@
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\bin\Debug\netstandard2.1\ProductFake.Domain.deps.json
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\bin\Debug\netstandard2.1\ProductFake.Domain.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\bin\Debug\netstandard2.1\ProductFake.Domain.pdb
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.AssemblyInfoInputs.cache
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.AssemblyInfo.cs
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.csproj.CoreCompileInputs.cache
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Core\ProductFake.Domain\obj\Debug\netstandard2.1\ProductFake.Domain.pdb

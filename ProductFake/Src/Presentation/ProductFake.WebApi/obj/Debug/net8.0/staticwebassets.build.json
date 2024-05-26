@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xF9P16Jp18VY+X1RKAFdOwEZZuYw49L4Ec8kTjZ78YA=",
+  "Source": "ProductFake.WebApi",
+  "BasePath": "_content/ProductFake.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

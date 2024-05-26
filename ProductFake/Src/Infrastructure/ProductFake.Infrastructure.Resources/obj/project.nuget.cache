@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5p7dVv2K7ETxK/MSKjAhRA22LsqK2laTumNa5MOxxUs4kK7RQGAZSKlL+fH56hkIwiSKQ3g+OHr5Ysf1Op030g==",
+  "success": true,
+  "projectFilePath": "F:\\.Net\\CleanArchitectureNet8\\ProductFake\\Src\\Infrastructure\\ProductFake.Infrastructure.Resources\\ProductFake.Infrastructure.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\QUANG VAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

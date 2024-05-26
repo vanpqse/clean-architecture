@@ -1,0 +1,17 @@
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Infrastructure.Persistence.deps.json
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Infrastructure.Persistence.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Infrastructure.Persistence.pdb
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Application.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Domain.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Application.pdb
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\bin\Debug\net8.0\ProductFake.Domain.pdb
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.csproj.AssemblyReference.cache
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.AssemblyInfoInputs.cache
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.AssemblyInfo.cs
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductF.7E4BD5F7.Up2Date
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\refint\ProductFake.Infrastructure.Persistence.dll
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ProductFake.Infrastructure.Persistence.pdb
+F:\.Net\CleanArchitectureNet8\ProductFake\Src\Infrastructure\ProductFake.Infrastructure.Persistence\obj\Debug\net8.0\ref\ProductFake.Infrastructure.Persistence.dll
